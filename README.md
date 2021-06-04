@@ -1,6 +1,6 @@
 # tesina_immigrazione
 
-Tesina sull'immigrazione in HTMl
+Tesina sull'immigrazione in HTML.
 <br>
  _(Test GitHub Pages)_
 </br>
